@@ -1,5 +1,6 @@
 # 💫 About Me:
 I am Muhammed Afsal
+A 19 year old passionate with tech
 
 # 🧑‍💻 What I do:
 Learn Python and Data Science by doing projects
