@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Hi, I'm **Muhammed Afsal** — a 10-year-old with a passion for technology and a deep interest in Python and Data Science. I love learning by building projects and exploring new challenges in tech.
+Hi, I'm **Muhammed Afsal** — a 20-year-old with a passion for technology and a deep interest in Python and Data Science. I love learning by building projects and exploring new challenges in tech.
 
 
 ## 🧑‍💻 What I do:
