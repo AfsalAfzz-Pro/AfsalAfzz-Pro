@@ -53,9 +53,17 @@ I'm a 20-year-old data enthusiast passionate about turning complex problems into
     - **Data Visualization**: Provides charts and insights for student performance using Plotly.
     - **Multi-Role Access**: Distinct modules for students, trainers, coordinators, and admins with tailored functionalities.
     - **Cloud Media Storage**: Secure handling of audio and media files with Google Cloud Storage integration.
-2. **[Project Name]** - Brief description of another significant project
+2. **Malware Detector** - A Python and Django-based application that scans .exe files for malware, providing a user-friendly interface for detecting potential threats.
    - Key technologies used
+    - Python
+    - Django
+    - Sci-kit Learn
+    - Plotly
+    - OpenAI API
    - Main achievements or features
+    - Real-time malware detection for .exe files
+    - Django interface for easy file uploads and scan reports
+
 
 ## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
