@@ -40,9 +40,19 @@ I'm a 20-year-old data enthusiast passionate about turning complex problems into
 </p>
 
 ## 💡 Featured Projects
-1. **[Project Name]** - Brief description of your best project
-   - Key technologies used
-   - Main achievements or features
+1. **SMAFS - Student Management and Feedback System** - A Django web application built to support self-learning platforms. This system facilitates efficient batch management, attendance tracking, feedback collection, and task management, making it suitable for training programs, educational institutions, and upskilling platforms.
+   - **Key technologies used**
+    - Python
+    - Django
+    - Google Cloud Storage (GCS)
+    - Plotly
+    - JavaScript and AJAX
+   - **Main achievements or features**
+    - **Automated Attendance Tracking**: Tracks student attendance based on task submissions with real-time updates.
+    - **Audio-Based Task Management**: Supports daily audio task submissions with feedback and progression-based access.
+    - **Data Visualization**: Provides charts and insights for student performance using Plotly.
+    - **Multi-Role Access**: Distinct modules for students, trainers, coordinators, and admins with tailored functionalities.
+    - **Cloud Media Storage**: Secure handling of audio and media files with Google Cloud Storage integration.
 2. **[Project Name]** - Brief description of another significant project
    - Key technologies used
    - Main achievements or features
