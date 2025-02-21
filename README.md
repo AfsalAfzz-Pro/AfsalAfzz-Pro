@@ -85,9 +85,7 @@ An intelligent system for detecting malware in executable files.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AfsalAfzz-Pro&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AfsalAfzz-Pro&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AfsalAfzz-Pro&theme=tokyonight" alt="GitHub Stats"/>
