@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Afsal</h1>
-<h3 align="center">A passionate Data Scientist & Full Stack Developer from India 🚀</h3>
+<h3 align="center">A passionate Full Stack Developer from India 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Data+Scientist;Full+Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver" alt="Typing SVG" />
@@ -84,8 +84,6 @@ An intelligent system for detecting malware in executable files.
 - 🔄 Continuous learning system
 
 ## 📊 GitHub Stats
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AfsalAfzz-Pro&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AfsalAfzz-Pro&theme=tokyonight" alt="GitHub Stats"/>
