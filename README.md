@@ -1,87 +1,119 @@
-# Muhammed Afsal
-> Transforming data into insights, one line of code at a time 🚀
+<h1 align="center">Hi 👋, I'm Muhammed Afsal</h1>
+<h3 align="center">A passionate Data Scientist & Full Stack Developer from India 🚀</h3>
 
-## 👋 About Me
-I'm a 20-year-old data enthusiast passionate about turning complex problems into elegant solutions. Currently diving deep into Python, Data Science, and Django to build impactful applications that make a difference.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Data+Scientist;Full+Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver" alt="Typing SVG" />
+</p>
 
-## 🎯 Current Focus
-- Building data-driven web applications using Django
-- Exploring advanced machine learning techniques with scikit-learn
-- Contributing to open-source projects in the data science ecosystem
-- Developing automated data analysis pipelines
+## 💫 About Me
+- 🎓 I'm a 20-year-old data enthusiast transforming complex problems into elegant solutions
+- 🔭 Currently building **SMAFS - Student Management and Feedback System**
+- 🌱 Learning **Advanced Machine Learning** and **Cloud Architecture**
+- 💡 Always exploring new technologies and methodologies
+- 📫 Reach me at **muhammedafsalafzz@gmail.com**
 
-## 🛠️ Technical Arsenal
-### Languages
+## 🚀 What I'm Working On
+- 🎯 Developing AI-powered educational tools
+- 📊 Building data analytics pipelines
+- 🤖 Exploring machine learning applications
+- 🌐 Contributing to open-source projects
+
+## 🛠️ Technology Stack
+
+<details>
+<summary>💻 Programming Languages</summary>
+<br>
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+</details>
 
-### Data Science & Analytics
+<details>
+<summary>📊 Data Science & ML</summary>
+<br>
+
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+</details>
 
-### Web Development & Tools
+<details>
+<summary>🌐 Web Development</summary>
+<br>
+
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+</details>
+
+<details>
+<summary>☁️ Cloud & DevOps</summary>
+<br>
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+</details>
 
-## 📊 GitHub Analytics
+## 📌 Featured Projects
+
+### 1. SMAFS - Student Management and Feedback System
+A comprehensive AI-driven educational platform that revolutionizes student feedback and management.
+
+**🛠️ Built with:** Python, Django, GCS, Plotly, JavaScript
+- 🎯 Automated attendance tracking with real-time updates
+- 🎙️ Audio-based task management with AI feedback
+- 📊 Advanced analytics and performance visualization
+- 👥 Multi-role access system with tailored functionalities
+- ☁️ Secure cloud storage integration
+
+### 2. Malware Detector
+An intelligent system for detecting malware in executable files.
+
+**🛠️ Built with:** Python, Django, Scikit-learn, OpenAI API
+- 🔍 Real-time malware detection
+- 🎯 High accuracy prediction model
+- 📊 Detailed scan reports and analytics
+- 🔄 Continuous learning system
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AfsalAfzz-Pro&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AfsalAfzz-Pro&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfsalAfzz-Pro&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AfsalAfzz-Pro&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
-## 💡 Featured Projects
-1. **SMAFS - Student Management and Feedback System** - A Django web application built to support self-learning platforms. This system facilitates efficient batch management, attendance tracking, feedback collection, and task management, making it suitable for training programs, educational institutions, and upskilling platforms.
-   - **Key technologies used**
-    - Python
-    - Django
-    - Google Cloud Storage (GCS)
-    - Plotly
-    - JavaScript and AJAX
-   - **Main achievements or features**
-    - **Automated Attendance Tracking**: Tracks student attendance based on task submissions with real-time updates.
-    - **Audio-Based Task Management**: Supports daily audio task submissions with feedback and progression-based access.
-    - **Data Visualization**: Provides charts and insights for student performance using Plotly.
-    - **Multi-Role Access**: Distinct modules for students, trainers, coordinators, and admins with tailored functionalities.
-    - **Cloud Media Storage**: Secure handling of audio and media files with Google Cloud Storage integration.
-2. **Malware Detector** - A Python and Django-based application that scans .exe files for malware, providing a user-friendly interface for detecting potential threats.
-   - Key technologies used
-    - Python
-    - Django
-    - Sci-kit Learn
-    - Plotly
-    - OpenAI API
-   - Main achievements or features
-    - Real-time malware detection for .exe files
-    - Django interface for easy file uploads and scan reports
+## 🤝 Connect With Me
 
-
-## 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- Add your blog posts here (you can automate this with GitHub Actions)
-<!-- BLOG-POST-LIST:END -->
-
-## 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-afsal-5ba11b288/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio-url-here)
-
-## ✨ Favorite Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <a href="https://www.linkedin.com/in/muhammed-afsal-5ba11b288/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:muhammedafsalafzz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://your-portfolio-url-here">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
+  </a>
 </p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
 
 ---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AfsalAfzz-Pro&color=blueviolet&style=flat-square">
+  <img src="https://komarev.com/ghpvc/?username=AfsalAfzz-Pro&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/AfsalAfzz-Pro?label=Followers&style=social" alt="Followers"/>
 </p>
